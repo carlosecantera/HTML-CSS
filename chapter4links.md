@@ -17,4 +17,11 @@ There are three different parts of the directory.
  * Relationship -This is the relationship between the main directory folder and the folders within that folder.
  * Homepages -This is written in HTML and its child folder is called index.html
 
-## Relative URLS
+## Other linking
+
+* Email links -When linking in the < a > use "mailto:" and put the email in the quotations next to it 
+
+* Linking to a specific par of the same page -An ID tag will need to be created so that you can have the link reference that portion of the page. Then after the ID had been place when referencing at the top use the < a href="# add the id">
+
+* ID's - ID's are created when within the first heading element you type ID="" and put the name of the link you want to see.
+
