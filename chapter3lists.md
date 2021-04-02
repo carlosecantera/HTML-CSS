@@ -19,3 +19,9 @@
 * In between the unordered list tage you will use < li > to start bullet points.
 
 ## Definition Lists
+
+* To create a definition list start with < dl > and then put the term being defined in between < dt > and the definition itself in < dd >.
+
+## Nested List
+
+* If you want to put a list within a list **nested list** type the < ul > list tag and then start each word in the list using < li > and make sure to close it.
