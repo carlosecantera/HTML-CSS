@@ -14,5 +14,5 @@
 4. Body, Head, and Title
 
 - Body -This is where headings and paragrghs live.
-- Head -Normally this comes befroe the body.  This tells what is going on, on the pages versus what is in the information given on the pages like the text.
+- Head -Normally this comes before the body.  This tells what is going on, on the pages versus what is in the information given on the pages like the text.
 - Title -The title is normally within the head of the page.  The title is what shows on the tab of the  page when it is open.
