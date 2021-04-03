@@ -32,3 +32,19 @@
 
 * Left aligns the image to the left and the words flow to the right
 * Right aligns the image to the right and the words flow to the left.
+* Top aligns the first sentence of the text at the top of the image.
+* Middle aligns the first sentence to the middle of the image.
+* Bottom aligns the first sentence to the bottom of the image.
+
+**The above functions are old code and should be used sparingly as they can be controlled with CSS.  Some old websites still use it instaed of CSS.**
+
+## Three rules for creating images
+
+* Save images in the right format such as jpeg, gif, or png
+* Save images at the right size
+* Measure images in pixels
+
+## Image Formats
+
+*jpeg -When an image has a lot of colors it is best saved as a jpeg.
+*gif -When an image has an area that is filled witht he same exact color it is best to save it as a gif or png.  Example would most likely be logos.
