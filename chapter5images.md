@@ -4,11 +4,11 @@
 
 * When putting a photo on your site, you can pay for stock photos.  Below are sites that you can purchase pictures from to use on your site.  Do not take them and use the without paying because they are copyright.
 
--istockphoto.com
--gettyimages.com
--veer.com
--sxc.hu
--fotolia.com
+- istockphoto.com
+- gettyimages.com
+- veer.com
+- sxc.hu
+- fotolia.com
 
 ## Insterting an image
 
@@ -46,5 +46,5 @@
 
 ## Image Formats
 
-*jpeg -When an image has a lot of colors it is best saved as a jpeg.
-*gif -When an image has an area that is filled witht he same exact color it is best to save it as a gif or png.  Example would most likely be logos.
+* jpeg -When an image has a lot of colors it is best saved as a jpeg.
+* gif -When an image has an area that is filled witht he same exact color it is best to save it as a gif or png.  Example would most likely be logos.
