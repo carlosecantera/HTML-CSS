@@ -27,11 +27,11 @@
 
 ## Escape Characters
 
-- Less than sign - &lt; &#60;
-- Greater than sign - &gt; &#62;
-- Ampersand - &amp; &#38;
-- Quotation mark - &quot; &#34;
-- Cent sign - &cent; &#162;
-- Copyright symbol - &copy; &#169;
-- Registered trademark - &reg; &#174;
-- Trademark &trade; &#8482;
+- Less than sign - "&lt;" "&#60;"
+- Greater than sign - "&gt;" "&#62;"
+- Ampersand - "&amp;" "&#38;"
+- Quotation mark - "&quot;" "&#34;"
+- Cent sign - "&cent;" "&#162;"
+- Copyright symbol - "&copy;" "&#169;"
+- Registered trademark - "&reg;" "&#174;"
+- Trademark "&trade;" "&#8482;"
