@@ -8,4 +8,4 @@
 - [Chapter 5. Images](https://github.com/carlosecantera/html-css/blob/main/chapter5images.md)
 - [Chapter 6. Tables](https://github.com/carlosecantera/html-css/blob/main/chapter6tables.md)
 - [Capter 7. Forms](https://github.com/carlosecantera/html-css/blob/main/chapter7forms.md)
--[Chapter 8. Extra Markup]
+- [Chapter 8. Extra Markup](https://github.com/carlosecantera/html-css/blob/main/chapter8extramarkup.md)
