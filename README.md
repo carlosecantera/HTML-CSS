@@ -9,3 +9,5 @@
 - [Chapter 6. Tables](https://github.com/carlosecantera/html-css/blob/main/chapter6tables.md)
 - [Capter 7. Forms](https://github.com/carlosecantera/html-css/blob/main/chapter7forms.md)
 - [Chapter 8. Extra Markup](https://github.com/carlosecantera/html-css/blob/main/chapter8extramarkup.md)
+- [Chapter 9 Flash](https://github.com/carlosecantera/html-css/blob/main/chapter9flashvideoandaudio.md)
+
