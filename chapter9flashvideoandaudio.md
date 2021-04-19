@@ -1,6 +1,5 @@
 # Flash, Video, and Audio
 
-## Video
+## Flash
 
-## Audio
-
+### How flash works
