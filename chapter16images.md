@@ -12,4 +12,29 @@
 
 - backgound-image - This allow you to put an image in the backgorund of the site like tiling in the back of the page with text and other objets on top of it.  
 
-- Repeating image
+- Repeating images
+
+- background-repeat and background-attachment
+ *There are four values*
+
+- repeat - this allows for a background image to be repeated horizontal and vertical
+
+- repeat-x -repeats the image horizontal
+
+- repeat-y - repeats the image vertical
+
+- no-repeat - the image is shown only once
+
+- fixed - the background image stays in one place 
+
+- scroll - the image moves up and down the page as the user scrolls
+
+## Background position
+
+- background-position - this allows you to set where the background image is put on the page. 
+
+## Image rollovers and Sprites
+
+This is a way for when a user hovers over a  button it can change to another image.
+
+
